@@ -86,6 +86,8 @@ public class LoginSession {
 			}
 
 	}
+		
+		System.out.println("Login testing finished");
 	}
 
 }
